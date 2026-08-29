@@ -121,7 +121,7 @@ The ER diagram represents the database entities, attributes, primary keys, forei
 
 Add the ER diagram image to this repository and reference it here:
 
-`ER_Diagram.png`
+![ER Diagram](ER_Diagram.png)
 
 ## How to Run
 
