@@ -30,7 +30,7 @@ The project demonstrates how a relational database can be designed and queried t
 
 ## Database Structure
 
-The database `ai_learning_platform` contains 11 related tables:
+The database `ai_learning_platform` contains 12 related tables:
 
 1. Students
 2. Instructors
